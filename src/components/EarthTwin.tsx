@@ -3,7 +3,6 @@ import { useUIStore } from '@/store/uiStore';
 import { MaterialIcon } from './MaterialIcon';
 import * as Cesium from 'cesium';
 
-
 interface CatalogObject {
   id: number;
   name: string;
